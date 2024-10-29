@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/DShort13](https://github.com/DShort13)
 
-- 💬 Ask me about **HTML5, CSS3, Javascript, DOM**
+- 💬 Ask me about **HTML5, CSS3, Javascript, DOM, React**
 
 - 📫 How to reach me **via my LinkedIn**
 
