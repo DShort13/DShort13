@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dion Short</h1>
 <h3 align="center">An aspiring Full Stack Engineer</h3>
 
-- 🔭 I’m currently working on [se_projects_spots](https://github.com/DShort13/se_project_spots)
+- 🔭 I’m currently working on [se_projects_react](https://dshort13.github.io/se_project_react/)
 
 - 🌱 I’m currently learning **Javascript and the DOM**
 
