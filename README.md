@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dion Short</h1>
 <h3 align="center">An aspiring Full Stack Engineer</h3>
 
-- 🔭 I’m currently working on [se_projects_react](https://dshort13.github.io/se_project_react/)
-
-- 🌱 I’m currently learning **Javascript and the DOM**
+- 🌱 I’m currently learning **Front-End Authentication**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DShort13](https://github.com/DShort13)
 
@@ -15,7 +13,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/dionshort1" target="blank"><img align="center" src="https://camo.githubusercontent.com/a12f97e0370c6c839fe198521c5536f0fb2ea4ec9005247525f5f3c2f2e91e7e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6c696e6b6564696e2e737667" alt="dionshort1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dionshort1" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="dionshort1" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
