@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dion Short</h1>
-<h3 align="center">An aspiring Full Stack Engineer</h3>
-
-- 🌱 I’m currently learning **Front-End Authentication**
+<h3 align="center">A Full Stack Engineer</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/DShort13](https://github.com/DShort13)
 
-- 💬 Ask me about **HTML5, CSS3, Javascript, DOM, React**
+- 💬 Ask me about **HTML5, CSS3, Javascript, DOM, React, React Router, Node.js, MongoDB, Express, GCP, JWT Auth**
 
 - 📫 How to reach me **via my LinkedIn**
 
