@@ -11,7 +11,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/dionshort1" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="dion-short" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dion-short" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="dion-short" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
