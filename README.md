@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dion Short</h1>
 <h3 align="center">A Full-Stack Engineer</h3>
 
-- 👨‍💻 All of my projects are available in [my repositories](https://github.com/DShort13?tab=repositories)
+- 👨‍💻 All of my projects are available in [my repositories](https://github.com/dionshort?tab=repositories)
 
 - 💬 Ask me about **HTML5, CSS3, Javascript, DOM, React, React Router, Node.js, MongoDB, Express, GCP, JWT Auth**
 
